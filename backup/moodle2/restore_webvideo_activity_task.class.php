@@ -1,5 +1,4 @@
 <?php
-
 // This file is part of the bootstrap webvideo plugin
 //
 // Moodle is free software: you can redistribute it and/or modify
@@ -18,7 +17,7 @@
 /**
  * @package    mod
  * @subpackage webvideo
- * @copyright  2013 Bas Brands, bas@sonsbeekmedia.nl
+ * @copyright  2014 Bas Brands, bas@sonsbeekmedia.nl
  * @license    http://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
  */
 
